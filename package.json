@@ -1,0 +1,17 @@
+{
+  "name": "fullstackcrud",
+  "version": "1.0.0",
+  "description": "backend practice with node, express and mongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js.",
+    "node.",
+    "mongoDB.",
+    "express"
+  ],
+  "author": "Md. Mahmudul Hasan",
+  "license": "ISC"
+}
